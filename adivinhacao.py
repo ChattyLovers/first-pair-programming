@@ -11,3 +11,4 @@ while not acabou:
     print(" _ " * len(fruta))
     letra = input('Digite uma letra: ')
     print(letra in fruta)
+    print("errou")
